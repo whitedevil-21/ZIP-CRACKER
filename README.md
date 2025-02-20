@@ -3,7 +3,7 @@ THIS TOOL ONLY FOR EDUCATIONAL PURPOSE DO NOT MISUSE FOR OUR REVANGE.
 <HTML>
 <HEAD>
   <meta name="google-site-verification" content="pbgbe_TxUskDwvUlaNEFigFMdkHshHa9cBf4FWNq1H4" />
-  <TITLE>WHITE DEVIL</TITLE>
+  
 </HEAD>
 <BODY>
 <H1><B>ZIP PASSWORD CRACKER</B></H1>
