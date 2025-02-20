@@ -33,9 +33,9 @@ A simple and efficient ZIP password cracker written in Bash. This tool uses a wo
   <LI>$ pkg install git<BR></LI>
   <LI>$ pkg install unzip<BR></LI>
   <LI>$ git clone https://github.com/whitedevil-21/ZIP-CRACKER.git<BR></LI>
-  <LI>$ cd ZIP-Password-Cracker<BR></LI>
-  <LI>$ chmod +x filebruteforce.sh<BR></LI>
-  <LI>$ ./filebruteforce.sh or bashfilebruteforce.sh<BR></LI>
+  <LI>$ cd ZIP-CRACKER<BR></LI>
+  <LI>$ chmod +x bruteforce.sh<BR></LI>
+  <LI>$ ./bruteforce.sh or bash bruteforce.sh<BR></LI>
 </UL>
  
 <H3>USAGE RUNNING PROCESS DETAILS:</H3>
