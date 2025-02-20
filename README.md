@@ -1,6 +1,11 @@
 # ZIP-CRACKER
 THIS TOOL ONLY FOR EDUCATIONAL PURPOSE DO NOT MISUSE FOR OUR REVANGE.
-
+<HTML>
+<HEAD>
+  <meta name="google-site-verification" content="pbgbe_TxUskDwvUlaNEFigFMdkHshHa9cBf4FWNq1H4" />
+  <TITLE>WHITE DEVIL</TITLE>
+</HEAD>
+<BODY>
 <H1><B>ZIP PASSWORD CRACKER</B></H1>
 
 <H3><B>CREATED BY : AMIT DEVI</B></H3>
@@ -43,4 +48,5 @@ A simple and efficient ZIP password cracker written in Bash. This tool uses a wo
   <LI>Enter the path of the ZIP file: When prompted, provide the full path to the ZIP file you want to crack.</LI>
   <LI>Enter the path of the wordlist: Provide the path to your wordlist file (e.g., rockyou.txt).</LI>
 </OL>
-
+</BODY>
+</HTML>
